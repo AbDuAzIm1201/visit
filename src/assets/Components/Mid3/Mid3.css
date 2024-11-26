@@ -1,0 +1,45 @@
+.btnl{
+
+    width: 1311px;
+    height: 80px;
+    margin-top: 30px;
+    border-radius: 40px;
+    color: black;
+    background-color: white;
+}
+.btnl1{
+    width: 1311px;
+    height: 80px;
+    background-color: greenyellow;
+    color: white;
+    border-radius: 40px;
+    margin-top: 30px;
+}
+.btnl1 .lk{
+    background-color: #fff;
+    border-radius: 40px;
+    border: 4px solid greenyellow;
+    margin-left: 1000px;
+    align-items: center;
+   width: 200px;
+    color: green;
+   
+
+
+}
+
+
+.btn-div{
+    gap: 30px;
+}
+.ota{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.imgq{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}

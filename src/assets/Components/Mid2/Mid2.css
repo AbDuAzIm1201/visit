@@ -1,0 +1,99 @@
+img{
+    margin-top: 30px;
+}
+.ota2{
+    background-color: greenyellow;
+    width: 1420px;
+}
+.mini-h{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1220px;
+}
+.btn{
+    border: 1px solid white;
+    border-radius: 1000px;
+    color: white;
+    width: 150px;
+    height: 40px;
+}
+.btn1{
+background-color: white;
+color: greenyellow;
+border: 2px solid greenyellow;
+border-radius: 1000px;
+width: 150px;
+height: 40px;
+margin-top: 40px;
+}
+.cards2{
+    background: linear-gradient(252.7deg, #EBF5EB 17.34%, #EFFBF0 90.57%);
+    display: flex;
+    align-items: center;
+    flex-wrap:wrap ;
+    gap: 20px;
+    width: 1420px;
+    height: 555px;
+}
+.card2{
+    margin-left: 20px;
+    width: 420px;
+    height: 320px;
+    border-radius: 40px;
+    background: #FFFFFF;
+    margin: 100 0 100 0;
+
+    box-shadow: 0px 4px 12px 0px #0000000D;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+}
+p{
+    margin-top: 50px;
+}
+.ota3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 100px;
+}
+h3{
+    margin-left: 40px;
+    margin-right: 50px;
+}
+p{
+    margin-right: 90px;
+}
+.ota4{
+    display: flex;
+    gap: 100px;
+}
+.card{
+    width: 640px;
+    height: 210px;
+    border: 2px solid black;
+    border-radius: 40px;
+    margin: 20px;
+    padding: 30px;
+    align-items: center;
+    margin-top: 50px;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+.card2-div{
+    gap: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 636px;
+}
+.ota5{
+    display: flex;
+    gap: 100px;   
+}
+img{
+    margin-top: 50px;
+}
